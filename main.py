@@ -5,13 +5,13 @@ import os
 from colorama import Fore
 
 print("===========================================")
-print('Spam Discord - Diminuto')
+print('Spam Discord - TunDyNguLoz')
 print("===========================================\n")
 
 time.sleep(1)
 
 channel_id = input("Nhập ID kênh: ")
-waktu1 = int(input("Đặt thời gian gui tin nhắn: "))
+waktu1 = int(input("Đặt thời gian gửi tin nhắn: "))
 
 time.sleep(1)
 print("3")
